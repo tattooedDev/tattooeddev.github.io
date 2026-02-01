@@ -1,5 +1,6 @@
 +++
 title = "Privacy Policy"
+path = "privacy-policy"
 +++
 
 # Privacy Policy

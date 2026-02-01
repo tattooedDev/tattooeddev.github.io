@@ -19,3 +19,5 @@ title = "The Tattooed Dev"
 logo_text = "The Tattooed Dev"
 accent_color = "orange"
 author = "Dennis Parussini"
+
+menu_items = [{ name = "Blog", url = "$BASE_URL" }]
