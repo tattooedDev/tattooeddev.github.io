@@ -1,8 +1,9 @@
 name: Build and deploy Zola website
 on:
+  workflow_run:
   push:
     branches:
-      - master
+      - main
 
 permissions:
   contents: read
